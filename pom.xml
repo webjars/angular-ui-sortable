@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-sortable</artifactId>
-    <version>0.12.11</version>
+    <version>0.12.12-SNAPSHOT</version>
     <name>UI.Sortable</name>
     <description>WebJar for UI.Sortable</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/angular-ui-sortable</url>
         <connection>scm:git:https://github.com/webjars/angular-ui-sortable.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-ui-sortable.git</developerConnection>
-        <tag>angular-ui-sortable-0.12.11</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
