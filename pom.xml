@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-ui-sortable</artifactId>
-    <version>0.12.12-SNAPSHOT</version>
+    <version>0.12.11-1-SNAPSHOT</version>
     <name>UI.Sortable</name>
     <description>WebJar for UI.Sortable</description>
     <url>http://webjars.org</url>
